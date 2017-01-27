@@ -33,3 +33,10 @@ Si nos gusta estar a la última (aunque con su riesgo...) podemos instalar las b
     sudo add-apt-repository --yes ppa:js-reynaud/ppa-kicad
     sudo apt update
     sudo apt install kicad
+
+
+## Creación de un circuitos
+## Creamos el squema
+
+  ![Create schema.png](./images/Create schema.png)
+  
