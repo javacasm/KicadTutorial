@@ -1,5 +1,7 @@
 # Kicad Tutorial
 
+### ¡¡Este tutorial está sin terminar!! es un trabajo en continuo progreso...
+
 ## ¿Qué es [Kicad](http://kicad-pcb.org) (http://kicad-pcb.org)?
 
 Es una aplicación open-source formado por diferentes componentes que nos permite diseñar circuitos electrónicos en todas las fases del desarrollo.
