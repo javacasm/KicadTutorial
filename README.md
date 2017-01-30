@@ -40,6 +40,9 @@ Si nos gusta estar a la última (aunque con su riesgo...) podemos instalar las b
 
   ![Create schema.png](./images/Create schema.png)
 
+  Colocamos los componentes
+
+
 ## Referencias
 
 [Tutorial Kicad (1/3)](https://hackaday.com/2016/11/17/creating-a-pcb-in-everything-kicad-part-1)
