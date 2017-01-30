@@ -4,6 +4,9 @@
 
 Es una aplicación open-source formado por diferentes componentes que nos permite diseñar circuitos electrónicos en todas las fases del desarrollo.
 
+
+![kicad](http://kicad-pcb.org/img/frontpage/kicad_pcbnew.png)
+
 Actualmente [recibe apoyo](http://kicad-pcb.org/about/kicad/) de entidades tan importantes como el CERN, la fundación Raspberry o Arduino
 
 
@@ -35,7 +38,7 @@ Si nos gusta estar a la última (aunque con su riesgo...) podemos instalar las b
     sudo apt install kicad
 
 
-## Creación de un circuitos
+## Creación de un circuito
 ## Creamos el squema
 
   ![Create schema.png](./images/Create schema.png)
