@@ -41,9 +41,9 @@ Si nos gusta estar a la última (aunque con su riesgo...) podemos instalar las b
 
 
 ## Creación de un circuito
-## Creamos el squema
+## Creamos el schema
 
-  ![Create schema.png](./images/Create schema.png)
+![Create schema.png](./images/Create schema.png)
 
   Colocamos los componentes
 
